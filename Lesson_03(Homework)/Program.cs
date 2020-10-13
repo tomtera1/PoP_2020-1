@@ -12,8 +12,8 @@ namespace Lesson_03_Homework_
         private static void Task_04()
         {
             Console.WriteLine("JUST SOME WEEK INFO:");
-            Console.WriteLine("~~~~~~~~~~~~~~~~~~~~");
-
+            Console.WriteLine("~~~~~~~~~ ~~~~~~~~~~~");
+           
             DateTime now = DateTime.Now;
             int hhour = now.Hour;
             DateTime today = DateTime.Now;
