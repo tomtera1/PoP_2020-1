@@ -7,7 +7,7 @@ namespace Lesson_04
     {
         static void Main(string[] args)
         {
-            Enc();
+            Diamond();
         }
 
         private static void Piramid()
