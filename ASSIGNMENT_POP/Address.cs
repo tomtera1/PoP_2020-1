@@ -17,10 +17,6 @@ namespace ASSIGNMENT_POP
             street = Street;
             city = City;
             country = Country;
-
-
-
-
         }
     }
 }

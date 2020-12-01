@@ -22,7 +22,6 @@ namespace ASSIGNMENT_POP
             Console.WriteLine($"Student {Person.FullName} address is {Person.fullAddress} ");
 
             Console.ReadKey();
-
         }
     }
 }

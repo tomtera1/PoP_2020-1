@@ -14,7 +14,6 @@ namespace ASSIGNMENT_POP
 
         public Person(string FirstName, string LastName, string FullName, string FullAddress) : base(address, street, city, country)
         {
-            
             FirstName = FirstN;
             LastName = LastN;
             FullName = fullN;
