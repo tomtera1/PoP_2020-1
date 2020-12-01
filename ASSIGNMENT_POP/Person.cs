@@ -12,8 +12,6 @@ namespace ASSIGNMENT_POP
         public static string fullN;
         public static string fullAddress;
 
-
-
         public Person(string FirstName, string LastName, string FullName, string FullAddress) : base(address, street, city, country)
         {
             
@@ -21,12 +19,6 @@ namespace ASSIGNMENT_POP
             LastName = LastN;
             FullName = fullN;
             FullAddress = fullAddress;
-            
-            
-            
-
         }
-
-       
     }
 }

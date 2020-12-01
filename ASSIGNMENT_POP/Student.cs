@@ -10,7 +10,7 @@ namespace ASSIGNMENT_POP
         public static string Address;
         public static int Age;
         public static int[] Scores = new int[4] { 60, 100, 66, 75 };
-        
+
         public static double AverageScore(int[] Scores)
         {
             int sum = 0;
@@ -24,7 +24,6 @@ namespace ASSIGNMENT_POP
         }
         public static double Average = AverageScore(Scores);
 
-
         public Student(string FirstName, string LastName, string StudentNumber, string address, int age, int[] Scores, int AverageScore) : base(FirstName, LastName, FullName, fullAddress)
         {
             StudentNumber = StudentNo;
@@ -33,8 +32,6 @@ namespace ASSIGNMENT_POP
             StudentNumber = StudentNo;
            
         }
-
-        
 
     }
 }
