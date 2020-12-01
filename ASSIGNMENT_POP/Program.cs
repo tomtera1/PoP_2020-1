@@ -7,17 +7,13 @@ namespace ASSIGNMENT_POP
     {
         static void Main(string[] args)
         {
-            LetsDoIt();
+            PersonDisplayInfo();
         }
-        private static void LetsDoIt()
+        private static void PersonDisplayInfo()
         {
-            
-
             Person.FullName = $"{Person.FirstN} {Person.LastN}";
-            
             Person.fullAddress = $"{Address.address}, {Address.street}, {Address.city}, {Address.country}";
             
-
             Console.WriteLine("=======================================================");
             Console.WriteLine("FULL INFORMATION OF GIVEN STUDENT");
             Console.WriteLine("=======================================================");
