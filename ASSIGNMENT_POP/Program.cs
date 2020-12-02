@@ -34,9 +34,9 @@ namespace ASSIGNMENT_POP
             Console.WriteLine("Press any key to continue: ");
             Console.ReadKey();
             Console.Clear();
-            Console.WriteLine("Let's display everything now");
-            Console.WriteLine("-------------------------");
-            Console.WriteLine("Press any key to continue");
+            Console.WriteLine("LET'S DISPLAY EVERYTHING NOW");
+            Console.WriteLine("----------------------------------------");
+            Console.WriteLine("Press any key to continue one more time: ");
             Console.ReadKey();
             Console.Clear();
 
