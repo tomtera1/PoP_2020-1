@@ -6,10 +6,10 @@ namespace ASSIGNMENT_POP
 {
     public class Address
     {
-        public static string address = "13";
-        public static string street = "Oborishte street";
-        public static string city = "Varna";
-        public static string country = "Bulgaria";
+        public static string address;
+        public static string street;
+        public static string city;
+        public static string country;
 
         public Address(string Address, string Street, string City, string Country)
         {

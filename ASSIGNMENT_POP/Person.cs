@@ -6,8 +6,8 @@ namespace ASSIGNMENT_POP
 {
     internal class Person : Address
     {
-        public static string FirstN = "Barak";
-        public static string LastN = "Obama";
+        public static string FirstN;
+        public static string LastN;
         public static string FullName;
         public static string fullN;
         public static string fullAddress;
